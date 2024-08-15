@@ -1,2 +1,3 @@
 onlyoffice/documentserver:latest
 minio/minio:latest
+knoxzhang/oo-ce-docker-license
