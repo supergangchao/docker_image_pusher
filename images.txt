@@ -1,3 +1,6 @@
 onlyoffice/documentserver:latest
 minio/minio:latest
 knoxzhang/oo-ce-docker-license
+postgres:12-alpine
+ankane/pgvector:v0.5.1
+mysql:5.7
